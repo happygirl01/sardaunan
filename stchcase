@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head> </head>
+	<body>
+
+<script type="text/javascript">
+
+function andela_assignment (number) {
+var number
+var i
+ for (var i = 1; i <= number; i++) {
+ 	
+ 
+switch (i) {
+	case number%3==="0"
+ document.write("fizz");
+
+
+ 
+	case number%5==="0")
+ document.write("buzz");
+
+
+	case number%3==="0") && case number%5==="0"
+ document.write("fizbuzz");
+
+
+	default
+ document.write("number");
+
+}
+
+};
+}
+andela_assignment(15);
+</script>
+
+</body>
+</html>

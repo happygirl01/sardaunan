@@ -1,0 +1,15 @@
+
+
+<script type="text/javascript">
+function andela_assignment (number) {
+
+	// body...
+ var number = x
+	if (x/3==1) 
+	{
+		document.write("fizz")
+	} 
+		else
+			{
+				document.write("number");
+}
